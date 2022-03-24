@@ -7,12 +7,15 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](../master/ds/_1.ts) | Hash Table | Easy 
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [TypeScript](../master/algorithms/_35.ts) | Binary Search | Easy
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [TypeScript](../master/ds/_53.ts) | Kadane's Algorithm | Easy
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [TypeScript](../master/dp/_70.ts) | Dynamic Programming | Easy
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [TypeScript](../master/ds/_88.ts) | ----- | Easy
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [TypeScript](../master/algorithms/_167.ts) | Two Pointers | Medium
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [TypeScript](..master/algorithms/_189.ts) | Two Pointers | Medium
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [TypeScript](..master/others/_191.ts) | Bit Manipulation | Easy
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [TypeScript](../master/ds/_217.ts) | Object Hash Table | Easy
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [TypeScript](../master/algorithms/_278.ts) | Binary Search | Easy
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [TypeScript](..master/algorithms/_283.ts) | Two Pointers | Easy
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [TypeScript](..master/algorithms/_367.ts) | Binary Search | Easy
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [TypeScript](../master/dp/_509.ts) | Dynamic Programming | Easy
 | 509 | [Fibonacci Number - Using Binet's formula : O(1)](https://leetcode.com/problems/fibonacci-number/) | [Typescript](../master/dp/_509v2.ts) | Binet's Formula | Easy
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [TypeScript](../master/algorithms/_704.ts) | Binary Search | Easy
